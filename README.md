@@ -1,5 +1,4 @@
 LISTA DE NOMBRE
 =================
-Jose Viejo Huerta
-=================
+Jose Viejo Huerta  
 Gerson Salazar
